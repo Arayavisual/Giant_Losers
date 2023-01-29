@@ -12,9 +12,7 @@ An Exploratory Data Analysis of the Impact to Top Ranked Companies during the 20
 
 
 ## General Information
-Using the datasets from 2008 to 2021, we completed an analysis of the market values, assets, sales and profits of the companies in the United States.  
-First, the overall sales and profits are analyzed for all companies in the US, then subsets for three industries: Financials, 
-Technology and Petroleum.  We focused on the sales and profit trends following the 2008 Housing crisis and Covid19 Pandemic, to
+Using the datasets from 2008 to 2021, we completed an analysis of the market values, assets, sales and profits of the companies in the United States.  First, the overall sales and profits are analyzed for all companies in the US, then subsets for three industries: Financials, Technology and Petroleum.  We focused on the sales and profit trends following the 2008 Housing crisis and Covid19 Pandemic, to
 determine if there was any impact due to the crises.
 
 
