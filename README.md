@@ -34,6 +34,7 @@ determine if there was any impact due to the crises.
 
 ## Setup
 You can find the datasets used for the analysis in the Resources folder and the images of the plots in the Output folder.
+https://docs.google.com/presentation/d/1r3yPJZ2R9fz55989jUnpCeyH9i8eF2l3CsVNeDro-4Q/edit#slide=id.g200e44b8ed0_1_46
 
 
 ## Project Status
