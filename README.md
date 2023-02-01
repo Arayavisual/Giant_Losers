@@ -38,7 +38,7 @@ https://docs.google.com/presentation/d/1r3yPJZ2R9fz55989jUnpCeyH9i8eF2l3CsVNeDro
 
 
 ## Project Status
-Project is in progress.
+Project is complete and no longer being worked on.
 
 
 ## Acknowledgements
